@@ -1,0 +1,35 @@
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.w-screen{
+    width: 100vw;
+}
+
+.h-screen{
+    height: 100vh;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+input[type='file'] {
+    color: transparent;
+  }
